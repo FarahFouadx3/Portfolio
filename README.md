@@ -18,4 +18,4 @@ Some of my projects include:
 
 ## 📫 Contact Me
 - Email: farahfouad2003o@gmail.com
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/farah-fouad-918b2b256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: (https://www.linkedin.com/in/farah-fouad-918b2b256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
