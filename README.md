@@ -12,9 +12,9 @@ I'm a student and aspiring full-stack web developer specializing in PHP, Python,
 ## 💼 Projects
 Some of my projects include:
 
-- 
-- 
-- 
+- Bank Misr GUI Loan Application
+- LinkCU Website
+- My Beauty skincare website
 
 ## 📫 Contact Me
 - Email: farahfouad2003o@gmail.com
